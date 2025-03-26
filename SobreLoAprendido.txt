@@ -1,0 +1,27 @@
+¿Qué aprendí?
+
+Aprendí a realizar casos de prueba en aplicaciones móviles utilizando Kotlin Multiplatform, una tecnología innovadora que permite el desarrollo de aplicaciones multiplataforma con un código base compartido.
+
+¿Qué valor tienen las pruebas en el ámbito profesional?
+
+Las pruebas de software son fundamentales en el desarrollo profesional de aplicaciones por múltiples razones:
+
+Garantía de Calidad
+- Aseguran que el software funcione correctamente bajo diferentes condiciones y escenarios.
+- Reducen significativamente la probabilidad de errores críticos que puedan afectar la experiencia del usuario.
+
+Impacto Económico
+- Prevenir errores en etapas tempranas del desarrollo reduce costos de corrección posteriores.
+- Una aplicación con pocos bugs genera mayor confianza en los clientes y usuarios finales.
+
+Mejora Continua
+- Los casos de prueba sirven como documentación viva del comportamiento esperado de la aplicación.
+- Facilitan la implementación de nuevas funcionalidades sin romper el código existente.
+
+Credibilidad Profesional
+- En el mercado laboral actual, los desarrolladores que dominan técnicas de testing son altamente valorados.
+- Demuestra un enfoque profesional y maduro hacia el desarrollo de software.
+
+Seguridad y Estabilidad
+- Las pruebas exhaustivas ayudan a identificar vulnerabilidades de seguridad.
+- Garantizan la estabilidad de la aplicación en diferentes dispositivos y versiones de sistemas operativos.
